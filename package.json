@@ -1,0 +1,38 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react by venkatesh Gujjala",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkatesh6840/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "venky"
+  ],
+  "author": "hemanth venky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Venkatesh6840/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Venkatesh6840/namaste-react#readme",
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.6",
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
